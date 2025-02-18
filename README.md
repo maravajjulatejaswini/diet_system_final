@@ -1,2 +1,1 @@
-Open Our Website on Your Machine: https://nutri-suggest.vercel.app/
-
+ML driven diet recommendation system
